@@ -9,9 +9,12 @@ export default function Home(){
         <div>
           <h1 id="home-heading" className="text-4xl md:text-5xl font-extrabold leading-tight text-slate-100">
             Hi, I’m Israr Khan
-            <span className="block text-xl md:text-2xl font-semibold text-slate-300">Frontend Engineer (React / Next.js) with Full-Stack Experience</span>
+            <span className="block text-xl md:text-2xl font-semibold text-slate-300">Frontend Engineer / Frontend Developer | React,  JavaScript, HTML, CSS</span>
           </h1>
-          <p className="text-slate-400 mt-4 max-w-prose">I build responsive, accessible, and high-performance web applications. I focus on clean components, fast experiences, and thoughtful UX.</p>
+          <p className="text-slate-400 mt-4 max-w-prose"> Frontend Developer specializing in JavaScript, React, HTML, and CSS, with experience building     
+production-ready, responsive, and accessible user interfaces and dashboards. Strong background    
+in component-based architecture, performance optimization, and WCAG-compliant                         
+accessibility.</p>
           <div className="flex gap-3 mt-6 flex-wrap">
             <Link to="/projects" className="inline-flex items-center px-4 py-2 bg-cyan-400 hover:bg-cyan-500 text-slate-900 rounded-md font-semibold">View my work</Link>
             <Link to="/contact" className="inline-flex items-center px-4 py-2 border border-slate-700 text-slate-300 rounded-md hover:bg-slate-800">Contact</Link>
