@@ -23,12 +23,10 @@ export default function Contact(){
       <div className="mt-6 grid gap-6 sm:grid-cols-2">
         <div className="space-y-3">
           <p className="text-slate-300">Email: <a href="mailto:israrkdp@gmail.com" className="text-cyan-400">israrkdp@gmail.com</a></p>
-          <p className="text-slate-300">LinkedIn: <a href="https://www.linkedin.com/in/israr-khan" target="_blank" rel="noreferrer noopener" className="text-cyan-400">linkedin.com/in/israr-khan</a></p>
           <p className="text-slate-300">GitHub: <a href="https://github.com/israrkhan921" target="_blank" rel="noreferrer noopener" className="text-cyan-400">github.com/israrkhan921</a></p>
-          <p className="text-slate-300">Twitter: <a href="https://twitter.com/YOUR_TWITTER" target="_blank" rel="noreferrer noopener" className="text-cyan-400">twitter.com/YOUR_TWITTER</a></p>
-          <p className="text-slate-300">LeetCode: <a href="https://leetcode.com/YOUR_USERNAME" target="_blank" rel="noreferrer noopener" className="text-cyan-400">leetcode.com/YOUR_USERNAME</a></p>
-          <p className="text-slate-300">Facebook: <a href="https://facebook.com/YOUR_PROFILE" target="_blank" rel="noreferrer noopener" className="text-cyan-400">facebook.com/YOUR_PROFILE</a></p>
-          <p className="text-slate-300">Discord: <a href="https://discord.gg/YOUR_INVITE" target="_blank" rel="noreferrer noopener" className="text-cyan-400">Join my Discord</a></p>
+          <p className="text-slate-300">Twitter: <a href=" https://x.com/israrkhansayed   " target="_blank" rel="noreferrer noopener" className="text-cyan-400">twitter.com/israrkhansayed</a></p>
+          <p className="text-slate-300">LeetCode: <a href="https://leetcode.com/u/Israrkhan921" target="_blank" rel="noreferrer noopener" className="text-cyan-400">leetcode.com/Israrkhan921</a></p>
+          <p className="text-slate-300">Discord: <a href=" https://discord.com/users/israr0838  " target="_blank" rel="noreferrer noopener" className="text-cyan-400">Join my Discord</a></p>
         </div>
 
         <form onSubmit={onSubmit} aria-describedby="contact-desc" className="max-w-xl mt-0 space-y-3">
