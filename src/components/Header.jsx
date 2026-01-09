@@ -35,7 +35,7 @@ export default function Header(){
           <NavItem to="/about">About</NavItem>
           <NavItem to="/projects">Projects</NavItem>
           <NavItem to="/contact">Contact</NavItem>
-          <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="ml-4 inline-flex items-center px-4 py-2 rounded-md bg-cyan-400 text-slate-900 font-semibold hover:bg-cyan-500">Resume</a>
+          <a href="/israrKhanResume.pdf" target="_blank" rel="noopener noreferrer" className="ml-4 inline-flex items-center px-4 py-2 rounded-md bg-cyan-400 text-slate-900 font-semibold hover:bg-cyan-500">Resume</a>
         </nav>
 
         <div className="md:hidden">
