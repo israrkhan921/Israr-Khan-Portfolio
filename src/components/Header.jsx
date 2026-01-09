@@ -59,7 +59,7 @@ export default function Header(){
             <NavLink onClick={() => setOpen(false)} to="/about" className="block text-lg text-slate-100">About</NavLink>
             <NavLink onClick={() => setOpen(false)} to="/projects" className="block text-lg text-slate-100">Projects</NavLink>
             <NavLink onClick={() => setOpen(false)} to="/contact" className="block text-lg text-slate-100">Contact</NavLink>
-            <a onClick={() => setOpen(false)} href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="inline-block mt-4 px-4 py-2 bg-cyan-400 text-slate-900 rounded-md">Resume</a>
+            <a onClick={() => setOpen(false)} href="/israrKhanResume.pdf" target="_blank" rel="noopener noreferrer" className="inline-block mt-4 px-4 py-2 bg-cyan-400 text-slate-900 rounded-md">Resume</a>
           </div>
         </div>
       </div>

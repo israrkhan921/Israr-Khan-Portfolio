@@ -73,7 +73,7 @@ export default function About(){
 
       <div className="mt-8 flex gap-3 flex-wrap">
         <Link to="/contact"><button className="inline-flex items-center px-4 py-2 border border-slate-700 text-slate-300 rounded-md hover:bg-slate-800 cursor-pointer">Contact Me</button></Link>
-        <a href="/Israr-Khan-CV.pdf" target="_blank" rel="noreferrer"><button className="ml-4 inline-flex items-center px-4 py-2 rounded-md bg-cyan-400 text-slate-900 font-semibold hover:bg-cyan-500 cursor-pointer">Download CV</button></a>
+        <a href="/israrKhanResume.pdf" target="_blank" rel="noreferrer"><button className="ml-4 inline-flex items-center px-4 py-2 rounded-md bg-cyan-400 text-slate-900 font-semibold hover:bg-cyan-500 cursor-pointer">Download CV</button></a>
       </div>
     </section>
   )
