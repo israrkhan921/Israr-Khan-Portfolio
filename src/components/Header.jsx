@@ -35,7 +35,7 @@ export default function Header(){
           <NavItem to="/about">About</NavItem>
           <NavItem to="/projects">Projects</NavItem>
           <NavItem to="/contact">Contact</NavItem>
-          <a href="/israrKhanResume.pdf" target="_blank" rel="noopener noreferrer" className="ml-4 inline-flex items-center px-4 py-2 rounded-md bg-cyan-400 text-slate-900 font-semibold hover:bg-cyan-500">Resume</a>
+          <a href="/Israr-Khan-Resume.pdf" target="_blank" rel="noopener noreferrer" className="ml-4 inline-flex items-center px-4 py-2 rounded-md bg-cyan-400 text-slate-900 font-semibold hover:bg-cyan-500">Resume</a>
         </nav>
 
         <div className="md:hidden">
@@ -59,7 +59,7 @@ export default function Header(){
             <NavLink onClick={() => setOpen(false)} to="/about" className="block text-lg text-slate-100">About</NavLink>
             <NavLink onClick={() => setOpen(false)} to="/projects" className="block text-lg text-slate-100">Projects</NavLink>
             <NavLink onClick={() => setOpen(false)} to="/contact" className="block text-lg text-slate-100">Contact</NavLink>
-            <a onClick={() => setOpen(false)} href="/israrKhanResume.pdf" target="_blank" rel="noopener noreferrer" className="inline-block mt-4 px-4 py-2 bg-cyan-400 text-slate-900 rounded-md">Resume</a>
+            <a onClick={() => setOpen(false)} href="/Israr-Khan-Resume.pdf" target="_blank" rel="noopener noreferrer" className="inline-block mt-4 px-4 py-2 bg-cyan-400 text-slate-900 rounded-md">Resume</a>
           </div>
         </div>
       </div>
