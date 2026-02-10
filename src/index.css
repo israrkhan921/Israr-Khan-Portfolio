@@ -1,14 +1,5 @@
 @import "tailwindcss";
 
-/* Keep only styles that are hard/verbose to express in Tailwind:
-   - design tokens (CSS variables)
-   - skip-link (accessibility)
-   - minimal container that ties to a token
-   - sticky header backdrop with blur
-   - reduced motion global preference
-   - focus-ring variable used by components when needed
-*/
-
 :root {
   /* Color tokens (dark-first) */
   --bg: #0F172A;
